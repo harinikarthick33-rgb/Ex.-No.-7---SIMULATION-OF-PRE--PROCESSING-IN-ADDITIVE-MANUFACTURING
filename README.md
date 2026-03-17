@@ -45,8 +45,18 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+Support removal
+<img width="1041" height="418" alt="Screenshot 2026-03-17 232649" src="https://github.com/user-attachments/assets/0a52862b-b0d9-4903-9973-3d5b9f1eb2f0" />
+
+UV curing
+<img width="1046" height="429" alt="Screenshot 2026-03-17 232804" src="https://github.com/user-attachments/assets/f8f3827c-0a29-4e49-aff1-14c90fa9a232" />
+
+Heat treatment
+
+<img width="1046" height="425" alt="Screenshot 2026-03-17 232858" src="https://github.com/user-attachments/assets/7931c945-b52e-4110-8b07-0ca75b948e87" />
+
+### Name: Harini V K
+### Register Number: 212225220036
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
